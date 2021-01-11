@@ -8,3 +8,4 @@
 ### Api Endpoint 
  
 - **POST  http:127.0.0.1:8001/api/publish **
+   publish message to topic endpoint
